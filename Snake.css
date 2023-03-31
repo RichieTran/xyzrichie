@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600,700&display=swap');
+
+body {
+    text-align:center;
+    font-family: 'Montserrat', sans-serif;
+    background:#E9CCF3;
+}
+canvas {
+    border: 2px solid rgb(151, 149, 149);
+}
+#score {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-size: 30px;
+  }
+.screen{
+    padding-top: 15px;
+}
+.icon{
+    width: 250px;
+	height: 85px;
+	margin: 25px auto 0;
+	background: #F5E4FB;
+	text-align: center;
+	position: relative;
+    padding-top: 10px;
+	border-radius: 5px;
+    font-size:xx-large;
+    vertical-align: middle;
+}
